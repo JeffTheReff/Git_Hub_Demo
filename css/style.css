@@ -1,0 +1,21 @@
+body{
+
+	background-color: #BAD1AD;
+
+}
+
+div{
+	background-color: #ADFF00
+;
+	height: 221px;
+	width: 221px;
+	margin: 20px;
+}
+#circle{
+	border-radius: 100px;
+	background-color: red;
+}
+	
+h1{
+	color:blue;
+}
